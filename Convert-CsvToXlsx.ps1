@@ -29,7 +29,7 @@
   
 .NOTES
   Version:          1.1
-  Author:           SnowCatBob (SnowCatBob01@gmail.com)
+  Author:           SnowCatBob
   Project Location: https://github.com/SnowCatBob/Convert-CsvToXlsx
   
 .EXAMPLE
